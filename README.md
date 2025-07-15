@@ -12,6 +12,9 @@ This repository contains code for the paper [UniF²ace: Fine-grained Face Unders
 
 2025.07.15 We have released the fine-grained face dataset [UniF²ace-130K](https://huggingface.co/datasets/tulvgengenr/UniF2ace-130K) with captions and VQAs !
 
+![dataset](assets/dataset.png)
+
+
 ## License
 
 All code within this repository is under [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
