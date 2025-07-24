@@ -16,21 +16,11 @@ This repository contains code for the paper [UniF²ace: Fine-grained Face Unders
 
 ## Citation
 ```latex
-@ARTICLE{2025arXiv250308120L,
-       author = {{Li}, Junzhe and {Qiu}, Xuerui and {Xu}, Linrui and {Guo}, Liya and {Qu}, Delin and {Long}, Tingting and {Fan}, Chun and {Li}, Ming},
-        title = "{UniF$^2$ace: Fine-grained Face Understanding and Generation with Unified Multimodal Models}",
-      journal = {arXiv e-prints},
-     keywords = {Computer Vision and Pattern Recognition, Artificial Intelligence, Machine Learning, Multimedia},
-         year = 2025,
-        month = mar,
-          eid = {arXiv:2503.08120},
-        pages = {arXiv:2503.08120},
-          doi = {10.48550/arXiv.2503.08120},
-archivePrefix = {arXiv},
-       eprint = {2503.08120},
- primaryClass = {cs.CV},
-       adsurl = {https://ui.adsabs.harvard.edu/abs/2025arXiv250308120L},
-      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+@article{li2025unif2ace,
+  title={Unif2ace: Fine-grained face understanding and generation with unified multimodal models},
+  author={Li, Junzhe and Qiu, Xuerui and Xu, Linrui and Guo, Liya and Qu, Delin and Long, Tingting and Fan, Chun and Li, Ming},
+  journal={arXiv preprint arXiv:2503.08120},
+  year={2025}
 }
 ```
 
