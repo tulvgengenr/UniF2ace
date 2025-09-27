@@ -15,6 +15,8 @@ This repository contains code for the paper [UniF²ace: A Unified Fine-grained F
 
 + We construct UniF²aceD-1M, a dataset containing 1M VQAs with an automated pipeline. Extensive experiments demonstrate that UniF²ace significantly outperforms or is on par with existing state-of-the-art models with a similar scale on various benchmarks, all while providing a more unified and efficient solution.
 
+![method](assets/method.png)
+
 ## 🔥 News
 
 2025.07.15 We have released the fine-grained face dataset [UniF²aceD-1M](https://huggingface.co/datasets/tulvgengenr/UniF2ace-130K) with captions and VQAs !
