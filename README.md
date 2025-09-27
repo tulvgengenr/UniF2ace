@@ -8,7 +8,14 @@ UniF²ace is the first unified multimodal model specifically designed for face u
 
 This repository contains code for the paper [UniF²ace: A Unified Fine-grained Face Understanding and Generation Model](https://arxiv.org/abs/2503.08120).
 
-## News
+## 🎉 Key Contributions
++ A unified face understanding and generation framework: We introduce UniF²ace, the first unified multimodal model for fine-grained face understanding and generation, establishing a solid baseline. 
+
++ A novel Dual Discrete Diffusion (D3Diff) loss function and a hybrid MoE architecture: We introduce D3Diff, a novel loss function within that theoretically unifies score-based diffusion and masked generative models, leading to a better approximation of the negative log-likelihood for high-fidelity generation and fine-grained attribute control. Additionally, we explore a hybrid Mixture-of-Experts (MoE) architecture at the token and sequence levels, adaptively incorporating the semantic and identity facial embeddings to complement the attribute forgotten phenomenon in representation evolvement.
+
++ We construct UniF²aceD-1M, a dataset containing 1M VQAs with an automated pipeline. Extensive experiments demonstrate that UniF²ace significantly outperforms or is on par with existing state-of-the-art models with a similar scale on various benchmarks, all while providing a more unified and efficient solution.
+
+## 🔥 News
 
 2025.07.15 We have released the fine-grained face dataset [UniF²aceD-1M](https://huggingface.co/datasets/tulvgengenr/UniF2ace-130K) with captions and VQAs !
 
